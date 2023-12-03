@@ -20,5 +20,6 @@ texture_1, texture_2, texture_3, ..., texture_64 - each of the 64 attribute vect
 Data is available at https://www.kaggle.com/c/leaf-classification/data
 
 # Machine Learning Algorithms 
-Logistic Regression 
-Linear Discriminant Analysis {Used for Dimensionality Reduction and Classification problems}
+1. Logistic Regression
+2. Linear Discriminant Analysis {Used for Dimensionality Reduction and Classification problems}
+
